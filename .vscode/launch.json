@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "calc_ranking",
+      "request": "launch",
+      "mainClass": "calc_ranking",
+      "projectName": "Dio-logica_385072bf"
+    },
+    {
+      "type": "java",
       "name": "desafio",
       "request": "launch",
       "mainClass": "desafio",
